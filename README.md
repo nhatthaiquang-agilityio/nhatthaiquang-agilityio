@@ -7,4 +7,4 @@ Hey! 😁
     - AWS & Azure
     - Docker, Rancher & Kubernetes
     - Azure DevOps & Github Action
-+ Currenly, I have been working on Angular 12 and .NET6.
++ Currently, I have been working on Angular 12 and .NET6.
