@@ -5,6 +5,8 @@ Hey! 😁
     - Python & Django Framework
     - ASP NET and .NET
     - AWS & Azure
-    - Docker, Rancher & Kubernetes
-    - Azure DevOps & Github Action
+    - Docker and Kubernetes
+    - Azure DevOps & Github Actions
++ 😄 I would like to learn new things.
++ ⚡ Fun fact: love travelling and explore the culture.
 + Currently, I have been working on Angular 12, .NET6 and Azure DevOps.
