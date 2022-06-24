@@ -1,6 +1,6 @@
 Hey! 😁 
-+ I'm a full stack developer. 🌍 
-+ I love building client side and backend side of applications - be it web or mobile 🌟
++ 🌍 I'm a full stack developer.  
++ 🌟 I love building client side and backend side of applications - be it web or mobile 
     - Javascript, Angular and React
     - Python & Django Framework
     - ASP NET and .NET
@@ -9,4 +9,5 @@ Hey! 😁
     - Azure DevOps & Github Actions
 + 😄 I would like to learn new things.
 + ⚡ Fun fact: love travelling and explore the culture.
-+ Currently, I have been working on Angular 12, .NET6 and Azure DevOps.
++ 🌱 I’m currently learning React & Next.js, React Native.
++ 🔭 Currently, I have been working on Angular 12, .NET6 and Azure DevOps.
