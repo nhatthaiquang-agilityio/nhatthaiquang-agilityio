@@ -9,5 +9,5 @@ Hey! 😁
     - Azure DevOps & Github Actions
 + 😄 I love to learn new things.
 + ⚡ Fun fact: love travel and explore the culture.
-+ 🌱 I’m currently learning React, React Native & GitHub Actions.
-+ 🔭 Currently, I have been working on Angular 12, .NET6, Azure DevOps and Github Actions.
++ 🌱 I’m currently learning React, React Native & Github Actions.
++ 🔭 Currently, I have been working on Angular 12, .NET6, Azure DevOps as well as Github Actions.
