@@ -6,6 +6,7 @@ Hey! 😁
     - ASP NET & .NET
     - AWS & Azure
     - Docker & Kubernetes
+    - Terraform (Infrastructure as code)
     - Azure DevOps & Github Actions
 + 😄 I love to learn new things.
 + ⚡ Fun fact: love travel and explore the culture.
