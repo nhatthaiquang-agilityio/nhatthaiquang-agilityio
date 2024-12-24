@@ -19,6 +19,7 @@ Here are some of the technologies and tools I work with:
 - **Languages:** JavaScript, TypeScript, Python, C#
 - **Frameworks and Libraries:** React, Node.js, Express, AngularJs, .NET
 - **Databases:** MongoDB, PostgreSQL, MySQL, SQL Server
+- **Infrastructure as code:** Terraform
 - **DevOps:** Docker, Kubernetes, CI/CD with GitHub Actions and Azure DevOps
 - **Cloud:** AWS, Azure
 - **Others:** Git, GitHub, RESTful APIs, GraphQL
