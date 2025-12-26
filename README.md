@@ -10,7 +10,12 @@ I'm a passionate software developer at AgilityIO with a strong interest in web d
 - 🌱 I’m constantly learning and exploring new technologies, currently focused on **React**, **.NET8**, and **Azure**.
 - 👯 I’m looking to collaborate on open-source projects and innovative solutions.
 - 💬 Ask me about anything related to web development, and I'll be happy to help!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nhat-thai-09100020b/) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nhat-thai-09100020b/)
+
+## Certificates
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/a618e735-4830-4ac1-8e33-9465682a4a73)
+- ![https://learn.microsoft.com/api/credentials/share/en-us/NhatThaiQuang-7121/3701CE88D5A748EE?sharingId=4549A4415D8E1B26](./images/microsoft-certified-associate-badge.svg)
+- ![https://learn.microsoft.com/api/credentials/share/en-us/NhatThaiQuang-7121/C4E240E699D742AF?sharingId=4549A4415D8E1B26](./images/microsoft-certified-expert-badge.svg)
 
 ## Technologies and Tools
 
