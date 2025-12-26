@@ -14,8 +14,8 @@ I'm a passionate software developer at AgilityIO with a strong interest in web d
 
 ## Certificates
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/a618e735-4830-4ac1-8e33-9465682a4a73)
-- ![https://learn.microsoft.com/api/credentials/share/en-us/NhatThaiQuang-7121/3701CE88D5A748EE?sharingId=4549A4415D8E1B26](./images/microsoft-certified-associate-badge.svg)
-- ![https://learn.microsoft.com/api/credentials/share/en-us/NhatThaiQuang-7121/C4E240E699D742AF?sharingId=4549A4415D8E1B26](./images/microsoft-certified-expert-badge.svg)
+- [<img src="./images/microsoft-certified-associate-badge.svg" width="100">](https://learn.microsoft.com/api/credentials/share/en-us/NhatThaiQuang-7121/3701CE88D5A748EE?sharingId=4549A4415D8E1B26)
+- [<img src="./images/microsoft-certified-expert-badge.svg" width="100">](https://learn.microsoft.com/api/credentials/share/en-us/NhatThaiQuang-7121/C4E240E699D742AF?sharingId=4549A4415D8E1B26)
 
 ## Technologies and Tools
 
